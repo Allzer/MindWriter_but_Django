@@ -1,0 +1,1 @@
+# MindWriter_but_Django
