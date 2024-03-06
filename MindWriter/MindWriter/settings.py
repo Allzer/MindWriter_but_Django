@@ -33,6 +33,8 @@ ALLOWED_HOSTS = [] #Для публикаций на определённых х
 # Application definition
 #Для добавления приложений
 INSTALLED_APPS = [
+    'new_task',
+    'main',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
